@@ -106,19 +106,18 @@ public class GameNetworkManager : MonoBehaviour
 		{
 			Lobbies.Clear();
 
-			var lobbies = await SteamMatchmaking.LobbyList
-                .WithKeyValue("game", "apex_point")
+		var lobbies = await SteamMatchmaking.LobbyList
                 .FilterDistanceClose()
-				.WithMaxResults(maxResults)
-				.RequestAsync();
+		.WithMaxResults(maxResults)
+		.RequestAsync();
 
-			if (lobbies != null)
-			{
-				for (int i = 0; i < lobbies.Length; i++)
-					Lobbies.Add(lobbies[i]);
-			}
+		if (lobbies != null)
+		{
+			for (int i = 0; i < lobbies.Length; i++)
+				Lobbies.Add(lobbies[i]);
+		}
 
-			return true;
+		return true;
 		}
 		catch (System.Exception ex)
 		{
@@ -175,7 +174,6 @@ public class GameNetworkManager : MonoBehaviour
 		}
 
 		lobby.SetFriendsOnly(); // Set to friends only!
-		lobby.SetData("game", "apex_point");
 		lobby.SetData("name", "Random Cool Lobby");
 		lobby.SetJoinable(true);
 
