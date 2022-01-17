@@ -26,7 +26,7 @@ private void OnGameLobbyJoinRequested(Lobby lobby, SteamId id) => HandleTranspor
 ```
 
 After you got the callbacks and also changing "targetSteamId" in FacepunchTransport, is pretty much the same stuff with Unity Netcode For GameObjects.<br/>
-[Highly recommend watching DapperDino's playlist over Unity Netcode For GameObjects](https://www.youtube.com/watch?v=4Mf81GdEDU8&list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E)
+[Highly recommend watching DapperDino's playlist over Unity Netcode For GameObjects](https://www.youtube.com/playlist?list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E)
 
 # All the links
 
@@ -34,4 +34,4 @@ After you got the callbacks and also changing "targetSteamId" in FacepunchTransp
 [Link to Facepunch Transport for Netcode for GameObjects](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.facepunch)<br/>
 [Link to Facepunch Wiki Page](https://wiki.facepunch.com/steamworks/)<br/>
 [Link to Steamworks API](https://partner.steamgames.com/doc/api)<br/>
-[Link to DapperDino's playlist over Unity Netcode For GameObjects](https://www.youtube.com/watch?v=4Mf81GdEDU8&list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E)
+[Link to DapperDino's playlist over Unity Netcode For GameObjects](https://www.youtube.com/playlist?list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E)
