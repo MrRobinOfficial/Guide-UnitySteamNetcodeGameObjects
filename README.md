@@ -5,6 +5,7 @@ Code for using "Steamworks Network/Facepunch" solution with "Unity Netcode For G
 
 [Install first Unity Netcode For GameObjects](https://docs-multiplayer.unity3d.com/docs/migration/install/index.html)<br/>
 [Then install Facepunch Transport](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.facepunch)<br/>
+[Or copy this git command and paste in Package Manager](https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.facepunch)
 [Then you have wiki page for getting started](https://wiki.facepunch.com/steamworks/)<br/>
 
 # How To Use It:
