@@ -1,5 +1,5 @@
 # Guide-UnitySteamNetcodeGameObjects
-Code for using "Steamworks Network/Facepunch" solution with "Unity Netcode For GameObjects/MLAPI"
+Code for using <em>Steamworks Network/Facepunch</em> solution with <em>Unity Netcode For GameObjects/MLAPI</em>
 
 # How To Install
 
@@ -28,7 +28,7 @@ private void OnGameLobbyJoinRequested(Lobby lobby, SteamId id) => HandleTranspor
 After you got the callbacks and also changing "targetSteamId" in FacepunchTransport, is pretty much the same stuff with Unity Netcode For GameObjects.<br/>
 [Highly recommend watching DapperDino's playlist over Unity Netcode For GameObjects](https://www.youtube.com/playlist?list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E)
 
-# All the links
+# Helpful links
 
 [Link to Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/)<br/>
 [Link to Facepunch Transport for Netcode for GameObjects](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.facepunch)<br/>
