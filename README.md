@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/unreal-commonvehicle/blob/HEAD/LICENSE.txt)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/guide-unitysteamnetcodegameobjects/blob/HEAD/LICENSE.txt)
 ![guide-status](https://img.shields.io/badge/guide_status-completed-green)
 
 </div>
