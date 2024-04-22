@@ -80,7 +80,7 @@ After you got the callbacks and also changing `targetSteamId` in `FacepunchTrans
 
 Highly recommend watching [DapperDino's playlist](https://www.youtube.com/playlist?list=PLS6sInD7ThM2_N9a1kN2oM4zZ-U-NtT2E) over Unity Netcode For GameObjects.
 
-## 🔗 Hepful Links
+## 🔗 Helpful Links
 
 * [Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/)
 * [Facepunch Transport for Netcode for GameObjects](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.facepunch)
